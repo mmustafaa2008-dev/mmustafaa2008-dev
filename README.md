@@ -46,10 +46,12 @@ I am a passionate developer focused on solving complex problems, exploring softw
 ---
 
 ### 📊 GITHUB STATS
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafaa2008-dev&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mmustafaa2008-dev&theme=tokyonight&column=3&margin-w=15" width="48%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mmustafaa2008-dev&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages" />
 </p>
+
 
 #### 🐍 Contribution Snake
 <p align="center">
