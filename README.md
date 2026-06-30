@@ -47,8 +47,8 @@ I am a passionate developer focused on solving complex problems, exploring softw
 
 ### 📊 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.io/api?username=mmustafaa2008-dev&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.io/api/top-langs/?username=mmustafaa2008-dev&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafaa2008-dev&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mmustafaa2008-dev&theme=tokyonight&column=3&margin-w=15" width="48%" alt="GitHub Trophies" />
 </p>
 
 #### 🐍 Contribution Snake
