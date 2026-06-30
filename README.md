@@ -45,11 +45,13 @@ I am a passionate developer focused on solving complex problems, exploring softw
 
 ---
 
-### 📊 GITHUB METRICS & ANALYSIS
+### 📊 GITHUB STATS & ACTIVITY
 
+<blockquote>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=header&text=Systems%20%26%20Automation&theme=tokyonight&fontSize=25" alt="Header Banner" />
+  <b>💻 TOTAL CONTRIBUTIONS:</b> Continuous integration and development across systems, tools, and automation pipelines.
 </p>
+</blockquote>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmustafaa2008-dev&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
