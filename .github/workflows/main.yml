@@ -8,6 +8,10 @@ on:
     branches:
     - main
 
+# Yeh permissions block add kiya hai taake repository mein animation save ho sake
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
