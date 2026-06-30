@@ -1,20 +1,16 @@
 # Hi there! 👋 I'm Muhammad Mustafa
 
 <p align="center">
-  <b>Computer Systems Engineering Student | Systems & Web Developer</b>
+  <font color="#FF5733" size="4"><b>Computer Systems Engineer | Futuristic AI Automation Engineer | Full-Stack App Developer</b></font>
 </p>
 
 ---
-
 ### 👤 About Me
 
-I am a passionate developer focused on solving complex problems, exploring software architectures, and building both system-level software and web applications.
-
-* 🚀 Passionate about **C++, Problem Solving, and Backend Logic**.
-* 🛠️ Currently expanding my skills in **Frontend & Web Development** (HTML, CSS, JavaScript).
-* 🎯 Actively practicing core concepts of **Object-Oriented Programming (OOP)** and **Data Structures**.
-* ⚡ Interested in system building, file handling mechanisms, and API integrations.
-
+* 🤖 **AI Agent Development:** Currently building **JARVIS**, an autonomous AI assistant powered by the Gemini API, designed to handle system automation and smart task management.
+* 🔌 **Workflow Automation:** Engineering production-ready automated backend pipelines and WhatsApp business responses using **n8n**.
+* 🔮 **Vibe Coding Enthusiast:** Actively leveraging LLMs and advanced prompting to rapidly prototype, write system logic, and accelerate full-stack application development.
+* 🛠️ **Core Engineering:** Designing custom systems, managing memory structures in C++, and working on data structures to solve complex architectural challenges.
 ---
 
 ### ⭐ LATEST PROJECTS
