@@ -48,7 +48,7 @@ I am a passionate developer focused on solving complex problems, exploring softw
 ### 📊 GITHUB METRICS & ANALYSIS
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/mmustafaa2008-dev?base=header%2C+activity%2C+community&base.indepth=true&config.timezone=Asia%2FKarachi&theme=tokyonight" width="100%" alt="Advanced Metrics" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=header&text=Systems%20%26%20Automation&theme=tokyonight&fontSize=25" alt="Header Banner" />
 </p>
 
 <p align="center">
