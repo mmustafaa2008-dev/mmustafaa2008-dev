@@ -45,11 +45,14 @@ I am a passionate developer focused on solving complex problems, exploring softw
 
 ---
 
-### 📊 GITHUB STATS
+### 📊 GITHUB METRICS & ANALYSIS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafaa2008-dev&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmustafaa2008-dev&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="48%" alt="GitHub Activity Graph" />
+  <img src="https://metrics.lecoq.io/mmustafaa2008-dev?base=header%2C+activity%2C+community&base.indepth=true&config.timezone=Asia%2FKarachi&theme=tokyonight" width="100%" alt="Advanced Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmustafaa2008-dev&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 #### 🐍 Contribution Snake
