@@ -101,13 +101,19 @@
 ### 📬 CONNECT WITH ME
 
 <p align="center">
-
-[![Email](https://img.shields.io/badge/Email-mmustafaa2008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmustafaa2008@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mustafa-355233301)
-
-[![GitHub](https://img.shields.io/badge/GitHub-mmustafaa2008--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmustafaa2008-dev)
-
-[![Website](https://img.shields.io/badge/Website-Mustex_Digital-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustex-digital.vercel.app/)
-
+  <a href="mailto:mmustafaa2008@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-MMUSTAFAA2008%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-mustafa-355233301">
+    <img src="https://img.shields.io/badge/LINKEDIN-MUHAMMAD%20MUSTAFA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/mmustafaa2008-dev">
+    <img src="https://img.shields.io/badge/GITHUB-MMUSTAFAA2008--DEV-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://mustex-digital.vercel.app/">
+    <img src="https://img.shields.io/badge/WEBSITE-MUSTEX%20DIGITAL-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
 </p>
