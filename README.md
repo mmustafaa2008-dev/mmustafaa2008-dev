@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Mustafa
 
 <p align="center">
-  <font color="#FF5733" size="4"><b>Computer Systems Engineer | Futuristic AI Automation Engineer | Full-Stack App Developer</b></font>
+  <font color="#FF5733" size="4"><b>Computer Systems Engineer | Full-Stack & AI Developer | Building Real-World Applications</b></font>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 * 🤖 **AI Agent Development:** Currently building **JARVIS**, an autonomous AI assistant powered by the Gemini API, designed to handle system automation and smart task management.
 * 🔌 **Workflow Automation:** Engineering production-ready automated backend pipelines and WhatsApp business responses using **n8n**.
-* 🔮 **Vibe Coding Enthusiast:** Actively leveraging LLMs and advanced prompting to rapidly prototype, write system logic, and accelerate full-stack application development.
+* 🔮 **AI-Assisted Development**: Using AI coding tools to accelerate feature implementation, debugging, refactoring, and codebase analysis.
 * 🛠️ **Core Engineering:** Designing custom systems, managing memory structures in C++, and working on data structures to solve complex architectural challenges.
 ---
 
