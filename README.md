@@ -83,11 +83,11 @@
 ### 📊 GITHUB STATS & ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmustafaa2008-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmustafaa2008-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mmustafaa2008-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Mustafa's%20Contribution%20Graph"
+    width="100%"
+    alt="Muhammad Mustafa GitHub Activity Graph"
+  />
 </p>
 
 #### 🐍 Contribution Snake
